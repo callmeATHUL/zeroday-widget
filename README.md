@@ -3,7 +3,12 @@
 ![ZERODAY Logo](https://img.shields.io/badge/Status-Beta-blueviolet?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**ZERODAY** is a minimalist, elegant desktop sticky note widget designed for productivity and quick capture. Built with Python and PyQt6, it provides a distraction-free way to manage your daily tasks directly from your desktop.
+**ZERODAY** is a minimalist, elegant desktop sticky note widget designed for productivity and quick capture. Originally built for **Arch Linux** and optimized for window managers like **Hyprland**, it provides a distraction-free way to manage your daily tasks directly from your desktop.
+
+## 📸 Preview
+
+![ZERODAY Screenshot](screenshot.png)
+*ZERODAY running on Arch Linux with a custom Hyprland setup.*
 
 ## 🚀 Features
 
